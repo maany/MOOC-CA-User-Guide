@@ -100,3 +100,6 @@ The extension only gets activated on the results/progress pages of the following
 ![MOOC-CA popup](./media/MOOC-CA-popup.png)
 3. Click on the coffee icon for the MOOC-CA extension and click the Submit button
 4. You should see the 'Submitted!!' message on successful submission. If you want, you can take a look at the submission by logging into the MOOC-CA server and then clicking on the submitted tasks under the **Submitted Tasks** section.
+
+## Youtube Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5MUBqfTiEvA/0.jpg)](https://www.youtube.com/watch?v=5MUBqfTiEvA)
