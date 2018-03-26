@@ -31,7 +31,7 @@ Link : [MOOC-CA chrome web store](https://chrome.google.com/webstore/detail/mooc
 
 | Parameter | Value  |
 | --------- |:-----: |
-| Task Submission URL| http://ec2-52-29-88-219.eu-central-1.compute.amazonaws.com/api/submit |
+| Task Submission URL| http://ec2-52-29-88-219.eu-central-1.compute.amazonaws.com/evaluator/api/submit |
 
 6. In the OAuth2 Client section, update the **Authorization Endpoint** and **Token Endpoint** as follows:
 
